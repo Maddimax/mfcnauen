@@ -1,0 +1,16 @@
+header.site-header {
+  background: #81A2C4;
+}
+/* Custom header logo placement for minima theme */
+.site-title {
+  display: flex;
+  align-items: center;
+}
+.site-title img.logo {
+  max-height: 100px;
+  width: auto;
+  margin-right: 0.7em;
+  vertical-align: middle;
+  box-shadow: none;
+  border-radius: 6px;
+}

@@ -1,0 +1,9 @@
+{% comment %} Inject logo next to site title in minima header {% endcomment %}
+{% if site.header_logo %}
+  <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+    <img src="{{ site.header_logo }}" alt="Logo" class="logo" />
+    {{ site.title }}
+  </a>
+{% else %}
+  <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+{% endif %}

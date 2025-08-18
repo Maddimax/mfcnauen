@@ -1,0 +1,26 @@
+minima:
+  include:
+    - custom-head.html
+    - custom-header.html
+include:
+  - assets/logo.css
+
+# Site settings
+title: MFC Nauen
+description: >
+  -
+baseurl: ""
+url: ""
+
+# Build settings
+theme: minima
+sass:
+  style: compressed
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      header_logo: "/assets/logo.jpg"
+plugins:
+  - jekyll-feed

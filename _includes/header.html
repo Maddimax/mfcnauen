@@ -1,0 +1,19 @@
+{% comment %} Überschreibt den Header von minima und zeigt das Logo neben dem Website-Namen an {% endcomment %}
+<header class="site-header" role="banner">
+  <link rel="stylesheet" href="{{ '/assets/logo.css' | relative_url }}">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/logo.jpg' | relative_url }}" alt="Logo" class="logo" />
+      {{ site.title }}
+    </a>
+  </div>
+</header>
+<nav class="simple-nav" style="background:#e9eef4; padding:0.5em 0; text-align:center;">
+  <a href="/" style="margin:0 1em; text-decoration:none; color:#222; font-weight:bold;">Startseite</a>
+  {% assign pages_sorted = site.pages | sort: 'title' %}
+  {% for my_page in pages_sorted %}
+    {% if my_page.title and my_page.url != '/' and my_page.nav_exclude != true %}
+      <a href="{{ my_page.url | relative_url }}" style="margin:0 1em; text-decoration:none; color:#222; font-weight:bold;">{{ my_page.title }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>
