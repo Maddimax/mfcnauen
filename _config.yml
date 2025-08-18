@@ -9,8 +9,8 @@ include:
 title: MFC Nauen
 description: >
   -
-baseurl: ""
-url: ""
+baseurl: "mfcnauen.3dlights.de"
+url: "mfcnauen.3dlights.de"
 
 # Build settings
 theme: minima
