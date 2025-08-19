@@ -8,13 +8,14 @@ Herzlich willkommen auf der Webseite des Modellflugvereins Nauen! Wir freuen uns
 Unser Modellflugplatz befindet sich an folgender Position:
 
 <div style="width: 100%; max-width: 600px; margin: 2em 0;">
-	<iframe width="100%" height="400" frameborder="0" style="border:0"
-		src="https://www.openstreetmap.org/export/embed.html?bbox=12.7849148752452%2C52.59323725582048%2C12.7949148752452%2C52.60323725582048&amp;layer=mapnik&amp;marker=52.59823725582048%2C12.7899148752452"
-		allowfullscreen>
-	</iframe>
+	<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=12.786406874656679%2C52.596961183299314%2C12.791299223899843%2C52.599313716646364&amp;layer=mapnik" style="border: 1px solid black"></iframe>
 	<br/>
 	<small>
-		<a href="https://www.openstreetmap.org/?mlat=52.59823725582048&amp;mlon=12.7899148752452#map=16/52.5982/12.7899" target="_blank" rel="noopener">Größere Karte anzeigen</a>
+		<a href="https://osm.org/go/0MZS1Bwb5--?way=671031862" target="_blank" rel="noopener">OpenStreetMap</a>
+		&nbsp;|&nbsp;
+		<a href="https://maps.app.goo.gl/idNGpqqV4mPJfWS59" target="_blank" rel="noopener">Google Maps</a>
+		&nbsp;|&nbsp;
+		<a href="https://maps.apple/p/9YPEVpeyQr6iFq" target="_blank" rel="noopener">Apple Maps</a>
 	</small>
 </div>
 
