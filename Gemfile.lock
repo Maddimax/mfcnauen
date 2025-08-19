@@ -163,7 +163,6 @@ DEPENDENCIES
   base64
   csv
   jekyll (~> 4.3.2)
-  jekyll-feed (~> 0.17)
   logger
   minima (~> 2.5)
 
