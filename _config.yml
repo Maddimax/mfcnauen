@@ -9,7 +9,7 @@ include:
 title: MFC Nauen
 description: >
   -
-baseurl: "mfcnauen.3dlights.de"
+baseurl: ""
 url: "mfcnauen.3dlights.de"
 
 # Build settings
