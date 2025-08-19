@@ -7,8 +7,7 @@ include:
 
 # Site settings
 title: MFC Nauen
-description: >
-  -
+description:
 baseurl: ""
 url: "mfcnauen.3dlights.de"
 
