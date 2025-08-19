@@ -22,6 +22,6 @@ permalink: /ansprechpartner/
 
 Detlef Kleindienst  
 Telefon: 0171 5644411  
-E-Mail: vorstand@mfcnauen.de
+E-Mail: [vorstand@mfcnauen.de](mailto:vorstand@mfcnauen.de)
 
 Für Fragen und Anregungen stehen wir gerne zur Verfügung!
