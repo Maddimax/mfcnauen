@@ -21,5 +21,3 @@ defaults:
       type: "pages"
     values:
       header_logo: "/assets/logo.jpg"
-plugins:
-  - jekyll-feed
