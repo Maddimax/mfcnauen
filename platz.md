@@ -2,6 +2,7 @@
 layout: page
 title: Unser Platz
 permalink: /unser-platz/
+order: 1
 ---
 
 <div style="width: 100%; max-width: 600px; margin: 2em 0;">

@@ -11,12 +11,11 @@
     </a>
   </div>
 </header>
-<nav class="simple-nav" style="background:#e9eef4; padding:0.5em 0; text-align:center;">
-  <a href="/" style="margin:0 1em; text-decoration:none; color:#222; font-weight:bold;">Startseite</a>
-  {% assign pages_sorted = site.pages | sort: 'title' %}
-  {% for my_page in pages_sorted %}
-    {% if my_page.title and my_page.url != '/' and my_page.nav_exclude != true %}
-      <a href="{{ my_page.url | relative_url }}" style="margin:0 1em; text-decoration:none; color:#222; font-weight:bold;">{{ my_page.title }}</a>
-    {% endif %}
-  {% endfor %}
+<nav class="simplenav">
+  <a href="/">Startseite</a>
+  <a href="/ansprechpartner/">Ansprechpartner</a>
+  <a href="/impressum/">Impressum</a>
+  <a href="/mitgliedschaft/">Mitgliedschaft</a>
+  <a href="/unser-platz/">Unser Platz</a>
+  <a href="/termine/">Termine</a>
 </nav>
