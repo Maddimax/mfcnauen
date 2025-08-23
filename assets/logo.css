@@ -1,5 +1,6 @@
 header.site-header {
-  background: #81A2C4;
+  background-image: url('/assets/platz.jpg');
+  background-size: cover;
 }
 /* Custom header logo placement for minima theme */
 .site-title {
@@ -19,9 +20,9 @@ header.site-header {
 
 .imgcontainer {
   background-color: white;
-  border-radius: 5px;
-  margin: 2px;
-  padding: 10px;
+  border-radius: 10px;
+  margin: 1rem;
+  padding: 0.5rem;
 }
 
 .map {
