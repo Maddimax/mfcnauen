@@ -2,7 +2,6 @@
 layout: page
 title: Mitgliedschaft
 permalink: /mitgliedschaft/
-order: 2
 ---
 
 Informatives zur Mitgliedschaft hier zum downloaden.

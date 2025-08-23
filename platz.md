@@ -2,7 +2,6 @@
 layout: page
 title: Unser Platz
 permalink: /unser-platz/
-order: 1
 ---
 
 <p align="center">
