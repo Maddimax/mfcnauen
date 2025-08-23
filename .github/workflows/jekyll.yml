@@ -69,5 +69,5 @@ jobs:
         server: ngcobalt411.manitu.net
         username: ftp200036640
         password: ${{ secrets.NEU_FTP_PASSWORD }}
-        local-dir: ./_site/
+        local-dir: ./site/
         server-dir: /web/neu.mfcnauen.de/
