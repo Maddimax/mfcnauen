@@ -52,9 +52,10 @@ Unsere Website wird von einem externen Dienstleister gehostet. Personenbezogene 
 Das Hosting erfolgt, um unser Online-Angebot sicher und effizient bereitzustellen. Unser Hoster verarbeitet Ihre Daten nur, soweit dies zur Erfüllung seiner Leistungen erforderlich ist und befolgt unsere Weisungen.
 
 **Hosting-Anbieter:**  
-Musterhosting AG  
-Musterweg 100  
-90210 Musterstadt
+manitu GmbH
+Welvertstraße 2
+66606 St. Wendel
+Deutschland
 
 ## 3. Allgemeine Hinweise und Pflichtinformationen
 
