@@ -34,6 +34,7 @@ footer.site-footer a {
 .site-title .title {
   margin-left: 1rem;
   color: #fff;
+  text-shadow: 5px 5px 5px rgba(0,0,0,.2);
 }
 
 .imgcontainer {
