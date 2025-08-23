@@ -1,3 +1,7 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 header.site-header {
   background-image: url('/assets/platz.jpg');
   background-size: cover;
@@ -62,4 +66,6 @@ footer.site-footer a {
 .mainimage {
   max-width: 80%;
   border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,.2);
+
 }
