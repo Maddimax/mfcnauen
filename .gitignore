@@ -18,3 +18,5 @@ Thumbs.db
 
 # Byebug command history
 .byebug_history
+
+Gemfile.lock
