@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aktuelles
-permalink: /aktuelles/
+title: Termine
+permalink: /termine/
 ---
 
 # Aktuelle Termine
