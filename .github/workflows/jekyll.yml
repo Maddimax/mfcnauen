@@ -57,4 +57,4 @@ jobs:
           username: ftp200036640
           password: ${{ secrets.NEU_FTP_PASSWORD }}
           local-dir: ./_site/
-          server-dir: /web/neu.mfcnauen.de/
+          server-dir: /
