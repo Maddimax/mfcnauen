@@ -8,6 +8,8 @@ header.site-header {
 }
 
 footer.site-footer {
+  display: flex;
+  gap: 1rem;
   background-color: #70804f;
   text-align: right;
   padding: 0.5rem 1rem;
