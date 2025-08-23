@@ -14,3 +14,10 @@ header.site-header {
   box-shadow: none;
   border-radius: 6px;
 }
+
+.map {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  border: none;
+}
