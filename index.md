@@ -4,10 +4,6 @@ title: Willkommen beim Modellflugverein Nauen
 order: 0
 ---
 
-Herzlich willkommen auf der Webseite des Modellflugvereins Nauen! Wir freuen uns über Ihren Besuch.
-
-Unser Modellflugplatz:
-
 <img class="mainimage" src="/assets/main.jpg" alt="Modellflugplatz Nauen"><br>
 <small>
 	<a href="https://osm.org/go/0MZS1Bwb5--?way=671031862" target="_blank" rel="noopener">OpenStreetMap</a>
@@ -16,5 +12,3 @@ Unser Modellflugplatz:
 	&nbsp;|&nbsp;
 	<a href="https://maps.apple/p/9YPEVpeyQr6iFq" target="_blank" rel="noopener">Apple Maps</a>
 </small>
-
-Wir laden alle Interessierten herzlich ein, uns auf dem Platz zu besuchen oder Kontakt mit uns aufzunehmen.
