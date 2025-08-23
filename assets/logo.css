@@ -9,10 +9,19 @@ header.site-header {
 .site-title img.logo {
   max-height: 100px;
   width: auto;
-  margin-right: 0.7em;
   vertical-align: middle;
-  box-shadow: none;
   border-radius: 6px;
+}
+
+.site-title .title {
+  margin-left: 1rem;
+}
+
+.imgcontainer {
+  background-color: white;
+  border-radius: 5px;
+  margin: 2px;
+  padding: 10px;
 }
 
 .map {

@@ -11,6 +11,9 @@ description:
 baseurl: ""
 url: "neu.mfcnauen.de"
 
+plugins:
+  - jekyll-ical-tag
+
 # Build settings
 theme: minima
 sass:
@@ -20,4 +23,4 @@ defaults:
       path: ""
       type: "pages"
     values:
-      header_logo: "/assets/logo.jpg"
+      header_logo: "/assets/logo.png"

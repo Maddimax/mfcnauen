@@ -4,8 +4,10 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/logo.jpg' | relative_url }}" alt="Logo" class="logo" />
-      {{ site.title }}
+      <div class="imgcontainer">
+        <img src="{{ '/assets/logo.png' | relative_url }}" alt="Logo" class="logo" />
+      </div>
+      <div class="title">{{ site.title }}</div>
     </a>
   </div>
 </header>
