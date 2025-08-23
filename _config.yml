@@ -1,9 +1,5 @@
-minima:
-  include:
-    - custom-head.html
-    - custom-header.html
 include:
-  - assets/logo.css
+  - assets/style.css
 
 # Site settings
 title: MFC Nauen
