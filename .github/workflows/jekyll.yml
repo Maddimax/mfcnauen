@@ -44,7 +44,7 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Archive code coverage results
+      - name: Archive site
         uses: actions/upload-artifact@v4
         with:
           name: site
@@ -65,10 +65,10 @@ jobs:
       with:
         name: site
     - name: 📂 Upload files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      uses: tomasbkk/action-ftp-upload@v1.0
       with:
-        server: ngcobalt411.manitu.net
-        username: ftp200036640
+        user: ftp200036640
         password: ${{ secrets.NEU_FTP_PASSWORD }}
-        local-dir: ${{ steps.download.outputs.download-path }}/
-        server-dir: /web/neu.mfcnauen.de/
+        host: ngcobalt411.manitu.net
+        src: ${{ steps.download.outputs.download-path }}/
+        dest: /web/neu.mfcnauen.de/
