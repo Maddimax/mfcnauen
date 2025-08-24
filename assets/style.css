@@ -68,6 +68,10 @@ footer.site-footer a {
   white-space: nowrap;
 }
 
+.simplenav a:hover {
+  text-decoration:underline;
+}
+
 .mainimage {
   max-width: 80%;
   border-radius: 1rem;
