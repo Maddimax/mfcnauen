@@ -7,9 +7,6 @@ description:
 baseurl: ""
 url: "neu.mfcnauen.de"
 
-plugins:
-  - jekyll-ical-tag
-
 # Build settings
 theme: minima
 sass:
