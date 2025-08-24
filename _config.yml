@@ -17,3 +17,6 @@ defaults:
       type: "pages"
     values:
       header_logo: "/assets/logo.webp"
+
+exclude:
+  - README.md
