@@ -65,6 +65,7 @@ footer.site-footer a {
   text-decoration:none;
   color:#224;
   font-weight:normal;
+  white-space: nowrap;
 }
 
 .mainimage {
