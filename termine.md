@@ -8,4 +8,4 @@ permalink: /termine/
 - **{{ termin.human_readable_date }}:** {{ termin.title }}<br><small>[{{termin.location}}]({{ termin.location_url | absolute_url }}) 
 {% endfor %}
 
-<small>Als iCalendar abonnieren: <a href="/mfc-nauen-termine.ics">mfc-nauen-termine.ics</a></small>
+<small><a href="/mfc-nauen-termine.ics">Termine abonnieren</a></small>
