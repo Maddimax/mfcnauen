@@ -4,7 +4,8 @@ title: Termine
 permalink: /termine/
 ---
 
+{% for termin in site.data.termine %}
+- **{{ termin.human_readable_date }}:** {{ termin.title }}<br><small>[{{termin.location}}]({{ termin.location_url | absolute_url }}) 
+{% endfor %}
 
-
-- **30. & 31. August 2025:** Havelländisches Modellfliegertreffen<br><small>[Auf unserem Platz](/unser-platz)</small>
-- **20. September 2025:** Abfliegen<br><small>[Auf unserem Platz](/unser-platz)</small>
+<small>Als iCalendar abonnieren: <a href="/mfc-nauen-termine.ics">mfc-nauen-termine.ics</a></small>

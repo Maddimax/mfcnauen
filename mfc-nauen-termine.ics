@@ -1,0 +1,20 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.mfcnauen.de/
+X-WR-CALNAME:MFC Nauen e.V. Termine
+METHOD:PUBLISH{% for termin in site.data.termine %}
+BEGIN:VEVENT
+UID:{{ termin.dtstart | date: "%Y%m%d" }}@mfcnauen.de
+ORGANIZER;CN="MFC Nauen":MAILTO:noreply@mfcnauen.de
+LOCATION:{{ termin.location_url | absolute_url }}
+SUMMARY:{{ termin.title }}
+DESCRIPTION:{{termin.title}} - {{termin.location}}
+CLASS:PUBLIC
+DTSTART:{{ termin.dtstart | date: "%Y%m%d" }}
+DTEND:{{ termin.dtend | date: "%Y%m%d" }}
+DTSTAMP:{{ termin.dtstart | date: "%Y%m%d" }}
+END:VEVENT{% endfor %}
+END:VCALENDAR
