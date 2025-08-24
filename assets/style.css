@@ -5,6 +5,7 @@ body {
 header.site-header {
   background-image: url('/assets/platz.jpg');
   background-size: cover;
+  border-bottom: 0px;
 }
 
 footer.site-footer {
@@ -54,9 +55,9 @@ footer.site-footer a {
 }
 
 .simplenav {
-  background:#d6e7fb; 
-  padding:0.5em 0;
-  text-align:center;
+  background: #d6e7fb; 
+  padding: 0.5em 0;
+  text-align: center;
 }
 
 .simplenav a {
