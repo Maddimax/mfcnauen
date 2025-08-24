@@ -58,4 +58,3 @@ jobs:
           password: ${{ secrets.NEU_FTP_PASSWORD }}
           local-dir: ./_site/
           server-dir: /
-          dangerous-clean-slate: true
