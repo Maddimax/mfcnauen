@@ -29,7 +29,7 @@ Unsere E-Mail-Adresse finden Sie oben im Impressum.
 ## Zentrale Kontaktstelle nach dem Digital Services Act – DSA (Verordnung (EU) 2022/265)
 Unsere zentrale Kontaktstelle für Nutzer und Behörden nach Art. 11, 12 DSA erreichen Sie wie folgt:
 
-E-Mail: [vorstand@mfcnauen.de](mailto:vorstand@mfcnauen.de)
+E-Mail: [vorstand@mfcnauen.de](mailto:vorstand@mfcnauen.de)  
 Telefon: 0171 5644411
 
 Sonstige Kontaktwege: per Brief
