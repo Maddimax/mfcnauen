@@ -3,7 +3,7 @@ body {
 }
 
 header.site-header {
-  background-image: url('/assets/platz.jpg');
+  background-image: url('/assets/header.webp');
   background-size: cover;
   border-bottom: 0px;
 }

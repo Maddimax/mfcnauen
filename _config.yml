@@ -16,4 +16,4 @@ defaults:
       path: ""
       type: "pages"
     values:
-      header_logo: "/assets/logo.png"
+      header_logo: "/assets/logo.webp"

@@ -5,7 +5,7 @@ permalink: /unser-platz/
 ---
 
 <p align="center">
-<img class="mainimage" src="/assets/main.jpg" alt="Modellflugplatz Nauen"><br>
+<img class="mainimage" src="/assets/platzvonoben.webp" alt="Modellflugplatz Nauen"><br>
 <small>
 	<a href="https://osm.org/go/0MZS1Bwb5--?way=671031862" target="_blank" rel="noopener">OpenStreetMap</a>
 	&nbsp;|&nbsp;
