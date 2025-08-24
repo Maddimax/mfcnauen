@@ -18,7 +18,32 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Des
 
 #### Wie erfassen wir Ihre Daten?
 
-Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eing-+-+-+-+-+
+Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
+
+Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-
+Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit
+des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.
+
+
+#### Wofür nutzen wir Ihre Daten?
+
+Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere
+Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern über die Website Verträge
+geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote,
+Bestellungen oder sonstige Auftragsanfragen verarbeitet.
+
+
+#### Welche Rechte haben Sie bezüglich Ihrer Daten?
+
+Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer
+gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder
+Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben,
+können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter
+bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
+
+Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden.
+
 # Datenschutzerklärung
 
 ## 1. Überblick zum Datenschutz
@@ -52,9 +77,9 @@ Unsere Website wird von einem externen Dienstleister gehostet. Personenbezogene 
 Das Hosting erfolgt, um unser Online-Angebot sicher und effizient bereitzustellen. Unser Hoster verarbeitet Ihre Daten nur, soweit dies zur Erfüllung seiner Leistungen erforderlich ist und befolgt unsere Weisungen.
 
 **Hosting-Anbieter:**  
-manitu GmbH
-Welvertstraße 2
-66606 St. Wendel
+manitu GmbH  
+Welvertstraße 2  
+66606 St. Wendel  
 Deutschland
 
 ## 3. Allgemeine Hinweise und Pflichtinformationen
