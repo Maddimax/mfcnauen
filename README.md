@@ -1,6 +1,6 @@
 # Nauen Static Jekyll Site
 
-This is a minimal Jekyll website setup.
+This is the website for MFC Nauen e.V., a modell flying club north of Berlin.
 
 ## Getting Started
 
@@ -23,11 +23,5 @@ This is a minimal Jekyll website setup.
 ## Structure
 - `_config.yml`: Jekyll configuration
 - `index.md`: Homepage
-- `_posts/`: Blog posts (optional)
 
 ---
-
-Replace content as needed for your project.
-
-## Hinweis zur Logo-Einbindung
-Das Theme "minima" bindet eigene Includes wie `custom-header.html` nicht automatisch ein. Um das Logo im Header sichtbar zu machen, muss entweder das Theme forkiert und angepasst werden, oder du überschreibst die Datei `_includes/header.html` direkt im Projekt und fügst dort den Logo-Code ein.
