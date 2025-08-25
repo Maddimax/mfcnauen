@@ -12,7 +12,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: production
+    environment:
+      name: production
+      url: ${{ vars.URL }}
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
