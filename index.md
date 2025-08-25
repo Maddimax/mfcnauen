@@ -1,7 +1,9 @@
 ---
 layout: home
-title: Herzlich willkommen beim Modellflugclub Nauen e.V. 
+title: Modellflugclub Nauen e.V. 
 ---
+
+Herzlich Willkommen
 
 <img class="mainimage" src="/assets/platzvonoben.webp" alt="Modellflugplatz Nauen"><br>
 <small>
