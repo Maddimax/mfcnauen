@@ -6,7 +6,7 @@
     </FilesMatch>
 
     # 2 Stunden für Textdateien
-    <FilesMatch "\.(html|htm|xml|txt|xsl)$">
+    <FilesMatch "\.(html|htm|xml|txt|xsl|css)$">
     Header set Cache-Control "public, max-age=7200, must-revalidate"
     </FilesMatch>
 </IfModule> 
