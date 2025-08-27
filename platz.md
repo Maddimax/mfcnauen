@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Unser Platz
+image: /assets/platzvonoben.webp
 permalink: /unser-platz/
 ---
 
