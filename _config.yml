@@ -5,8 +5,8 @@ include:
 # Site settings
 title: MFC Nauen
 description: Willkommen auf der Homepage des MFC Nauen e.V.
-baseurl: ""
-url: "neu.mfcnauen.de"
+baseurl: "/"
+url: "https://neu.mfcnauen.de"
 
 # Build settings
 theme: minima
