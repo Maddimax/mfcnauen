@@ -6,7 +6,10 @@ image: /assets/platzvonoben.webp
 
 Herzlich Willkommen
 
-<img class="mainimage" src="/assets/platzvonoben.webp" alt="Modellflugplatz Nauen"><br>
+<a href="{{ '/assets/platzvonoben.webp' | relative_url }}">
+<img class="mainimage" src="{{ '/assets/platzvonoben.webp' | relative_url }}" alt="Modellflugplatz Nauen">
+</a>
+<br>
 <small>
 	<a href="https://osm.org/go/0MZS1Bwb5--?way=671031862" target="_blank" rel="noopener">OpenStreetMap</a>
 	&nbsp;|&nbsp;
