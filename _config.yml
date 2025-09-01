@@ -1,7 +1,3 @@
-include:
-  - assets/style.css
-  - .htaccess
-
 # Site settings
 title: MFC Nauen
 description: Willkommen auf der Homepage des MFC Nauen e.V.
@@ -21,3 +17,6 @@ defaults:
 
 exclude:
   - README.md
+include:
+  - assets/style.css
+  - .htaccess
