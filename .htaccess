@@ -8,4 +8,7 @@
     <FilesMatch "\.(html|htm|xml|txt|xsl|css)$">
     Header set Cache-Control "public, max-age=7200, must-revalidate"
     </FilesMatch>
-</IfModule> 
+
+<FilesMatch "\.(html?|txt|css|js|php|pl)$">
+    SetOutputFilter DEFLATE
+ </FilesMatch>
