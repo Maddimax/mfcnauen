@@ -7,7 +7,7 @@ PRODID:http://www.mfcnauen.de/
 X-WR-CALNAME:MFC Nauen e.V. Hallenfliegen Termine
 METHOD:PUBLISH{% for termin in site.data.hallenfliegen %}
 BEGIN:VEVENT
-UID:{{ termin.dtstart | date: "%Y%m%d" }}@mfcnauen.de
+UID:{{ termin.date | date: "%Y%m%d" }}@mfcnauen.de
 ORGANIZER;CN="MFC Nauen":MAILTO:noreply@mfcnauen.de
 LOCATION:Goethe Gymnasium Nauen
 SUMMARY:Hallenfliegen
