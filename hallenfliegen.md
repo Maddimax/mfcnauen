@@ -8,8 +8,19 @@ Unser Hallenfliegen findet dieses Jahr wieder an den folgenden Samstagen von 13:
 [Sporthalle des Goethe Gymnasium Nauen](https://maps.app.goo.gl/Apfc6FYo5ofCXaW4A){:target="_blank"}
 statt:
 
-
+<ul class="event-list">
 {% for termin in site.data.hallenfliegen %}
-* {{ termin.date }}{% endfor %}
+
+{% if termin.date > site.time %}
+<li class="future-event">
+{% else %}
+<li class="past-event">
+{% endif %}
+
+    {{ termin.date | date: "%d.%m.%Y" }}<br>
+</li>
+{% endfor %}
+
+</ul>
 
 <small><a href="/hallenfliegen.ics">Termine abonnieren</a></small>

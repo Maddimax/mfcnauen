@@ -13,8 +13,8 @@ LOCATION:Goethe Gymnasium Nauen
 SUMMARY:Hallenfliegen
 DESCRIPTION:Hallenfliegen
 CLASS:PUBLIC
-DTSTART;TZID=Europe/Berlin:{{ termin.dtstart | date: "%Y%m%dT%H%M%S" }}
-DTEND;TZID=Europe/Berlin:{{ termin.dtend | date: "%Y%m%dT%H%M%S" }}
-DTSTAMP:{{ termin.dtstart | date: "%Y%m%dT%H%M%S" }}
+DTSTART;TZID=Europe/Berlin:{{ termin.date | date: "%Y%m%dT%H%M%S" }}
+DTEND;TZID=Europe/Berlin:{{ termin.date | date: "%Y%m%dT" }}180000
+DTSTAMP:{{ termin.date | date: "%Y%m%dT%H%M%S" }}
 END:VEVENT{% endfor %}
 END:VCALENDAR

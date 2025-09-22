@@ -81,3 +81,11 @@ footer.site-footer a {
   box-shadow: 0 4px 8px rgba(0,0,0,.2);
 
 }
+
+.event-list .event-date {
+  font-weight: bold;
+}
+
+.event-list .past-event {
+  color: #888;
+}
