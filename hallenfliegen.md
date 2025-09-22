@@ -4,7 +4,7 @@ title: Hallenfliegen
 permalink: /hallenfliegen/
 ---
 
-Unser Hallenfliegen findet dieses Jahr wieder an den folgenden Samstagenvon 13:30 bis 18:00 in der
+Unser Hallenfliegen findet dieses Jahr wieder an den folgenden Samstagen von 13:30 bis 18:00 in der
 [Sporthalle des Goethe Gymnasium Nauen](https://maps.app.goo.gl/Apfc6FYo5ofCXaW4A){:target="_blank"}
 statt:
 
