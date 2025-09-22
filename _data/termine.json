@@ -14,5 +14,21 @@
         "location_url": "/unser-platz",
         "dtstart": "2025-09-20T00:00:00Z",
         "dtend": "2025-09-20T23:59:59Z"
+    },
+    {
+        "title": "Lockeres Treffen in einer Gaststätte (Vereinsintern)",
+        "human_readable_date": "24. Oktober 2025",
+        "location": "Wird noch bekannt gegeben",
+        "location_url": "",
+        "dtstart": "2025-10-24T00:00:00Z",
+        "dtend": "2025-10-24T23:59:59Z"
+    },
+    {
+        "title": "Weihnachtsfeier (Vereinsintern)",
+        "human_readable_date": "22. November 2025",
+        "location": "Wird noch bekannt gegeben",
+        "location_url": "",
+        "dtstart": "2025-11-22T00:00:00Z",
+        "dtend": "2025-11-22T23:59:59Z"
     }
 ]
