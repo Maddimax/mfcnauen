@@ -26,7 +26,10 @@ footer.site-footer a {
 .site-title {
   display: flex;
   align-items: center;
+  width: 100%;
+  justify-content: space-between;
 }
+
 .site-title img.logo {
   max-height: 100px;
   width: auto;
