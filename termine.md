@@ -13,10 +13,12 @@ permalink: /termine/
 {% else %}
 <li class="past-event">
 {% endif %}
+<p>
 <span class="event-date">{{ termin.human_readable_date }}: </span>{{ termin.title }}<br>
 <small>
     <a href="{{ termin.location_url | absolute_url }}">{{termin.location}}</a>
 </small>
+</p>
 </li>
 {% endfor %}
 </ul>
