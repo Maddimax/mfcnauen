@@ -13,8 +13,14 @@ LOCATION:{{ termin.location_url | absolute_url }}
 SUMMARY:{{ termin.title }}
 DESCRIPTION:{{termin.title}} - {{termin.location}}
 CLASS:{{termin.class | default: "PUBLIC"}}
+{%- if termin.full_day %}
 DTSTART:{{ termin.dtstart | date: "%Y%m%d" }}
 DTEND:{{ termin.dtend | date: "%Y%m%d" }}
 DTSTAMP:{{ termin.dtstart | date: "%Y%m%d" }}
+{%- else %}
+DTSTART:{{ termin.dtstart | date: "%Y%m%dT%H%M%S" }}
+DTEND:{{ termin.dtend | date: "%Y%m%dT%H%M%S" }}
+DTSTAMP:{{ termin.dtstart | date: "%Y%m%dT%H%M%S" }}
+{%- endif %}
 END:VEVENT{% endfor %}
 END:VCALENDAR
