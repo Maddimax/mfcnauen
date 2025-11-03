@@ -14,7 +14,7 @@ SUMMARY:Hallenfliegen
 DESCRIPTION:Hallenfliegen
 CLASS:PUBLIC
 DTSTART;TZID=Europe/Berlin:{{ termin.date | date: "%Y%m%dT%H%M%S" }}
-DTEND;TZID=Europe/Berlin:{{ termin.date | date: "%Y%m%dT" }}180000
+DTEND;TZID=Europe/Berlin:{{ termin.date | date: "%Y%m%dT" }}170000
 DTSTAMP:{{ termin.date | date: "%Y%m%dT%H%M%S" }}
 END:VEVENT{% endfor %}
 END:VCALENDAR

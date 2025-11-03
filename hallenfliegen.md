@@ -4,9 +4,11 @@ title: Hallenfliegen
 permalink: /hallenfliegen/
 ---
 
-Unser Hallenfliegen findet dieses Jahr wieder an den folgenden Samstagen von 13:30 bis 18:00 in der
+Unser Hallenfliegen findet dieses Jahr wieder an den folgenden Samstagen von 14:00 bis 17:00 in der
 [Sporthalle des Goethe Gymnasium Nauen](https://maps.app.goo.gl/Apfc6FYo5ofCXaW4A){:target="_blank"}
-statt:
+statt.
+
+Der Unkostenbeitrag beträgt für Piloten ab 18 Jahren 3€ pro Veranstaltung.
 
 <ul class="event-list">
 {% for termin in site.data.hallenfliegen %}
