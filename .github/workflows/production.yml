@@ -36,29 +36,6 @@ jobs:
           path: ./_site
           include-hidden-files: true
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: production
-      url: ${{ vars.URL }}
-
-    steps:
-      - name: ⬇️ Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: site
-          path: ./_site
-
-      - name: 📂 Upload files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USER }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./_site/
-          server-dir: /
-
   hetzner:
     needs: build
     runs-on: ubuntu-latest
