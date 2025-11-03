@@ -4,8 +4,6 @@ title: Impressum
 permalink: /impressum/
 ---
 
-# Impressum
-
 Modellflugclub Nauen e. V. (MFC Nauen e.V.)  
 Bergstrasse 7  
 16766 Kremmen
@@ -22,11 +20,11 @@ Bernd Stolz (Kassenwart)
 Telefon: 0171 5644411  
 E-Mail: [vorstand@mfcnauen.de](mailto:vorstand@mfcnauen.de)
 
-## EU-Streitschlichtung
+### EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
-## Zentrale Kontaktstelle nach dem Digital Services Act – DSA (Verordnung (EU) 2022/265)
+### Zentrale Kontaktstelle nach dem Digital Services Act – DSA (Verordnung (EU) 2022/265)
 Unsere zentrale Kontaktstelle für Nutzer und Behörden nach Art. 11, 12 DSA erreichen Sie wie folgt:
 
 E-Mail: [vorstand@mfcnauen.de](mailto:vorstand@mfcnauen.de)  
