@@ -29,7 +29,7 @@
   human_readable_date: 22. November 2025
   location: Wird noch bekannt gegeben
   location_url: ""
-  dtstart: 2025-11-22 00:00:00
-  dtend: 2025-11-22 00:00:00
+  dtstart: 2025-11-22 18:00:00
+  dtend: 2025-11-22 22:00:00
   class: PRIVATE
-  full_day: true
+  full_day: false
