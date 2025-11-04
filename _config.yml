@@ -14,9 +14,17 @@ defaults:
       type: "pages"
     values:
       header_logo: "/assets/logo.webp"
+  - scope:
+      path:            "assets/**/*.pdf"
+    values:
+      sitemap:         false
+
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - README.md
 include:
   - assets/style.css
   - .htaccess
+  - robots.txt
