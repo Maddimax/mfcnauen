@@ -12,3 +12,5 @@
 <FilesMatch "\.(html?|txt|css|js|php|pl)$">
     SetOutputFilter DEFLATE
  </FilesMatch>
+
+ErrorDocument 404 /404.html
