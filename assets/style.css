@@ -102,3 +102,7 @@ footer.site-footer a {
 .event-list .past-event {
   color: #888;
 }
+
+.event-list .note {
+  font-style: italic;
+}

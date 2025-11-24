@@ -19,7 +19,11 @@ Der Unkostenbeitrag beträgt für Piloten ab 18 Jahren 3€ pro Veranstaltung.
 <li class="past-event">
 {% endif %}
 
-    {{ termin.date | date: "%d.%m.%Y" }}<br>
+    {{ termin.date | date: "%d.%m.%Y" }}
+{% if termin.note %}
+    - <span class="note">{{ termin.note }}</span>
+{% endif %}
+    <br>
 </li>
 {% endfor %}
 
