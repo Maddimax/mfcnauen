@@ -1,5 +1,14 @@
+/* Import font face from Noto-Sans-regular.woff2 */
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('/assets/fonts/Noto-Sans-regular.woff2') format('woff2'),
+       url('/assets/fonts/Noto-Sans-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Noto Sans', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header.site-header {
