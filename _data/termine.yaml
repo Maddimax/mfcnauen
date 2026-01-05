@@ -1,35 +1,62 @@
-- title: Havelländisches Modellfliegertreffen
-  human_readable_date: 30. & 31. August 2025
-  location: Auf unserem Platz
-  location_url: /unser-platz
-  dtstart: 2025-08-30 00:00:00
-  dtend: 2025-09-01 00:00:00
-  class: PUBLIC
+- title: Treffpunkt Modellbau Paaren
+  human_readable_date: 14. & 15. Februar 2026
+  location: MAFZ Paaren
+  location_url: https://erlebnispark-paaren.de/
+  dtstart: 2026-02-14 00:00:00
+  dtend: 2026-02-16 00:00:00
+  class: PRIVATE
   full_day: true
 
-- title: Abfliegen
-  human_readable_date: 20. September 2025
-  location: Auf unserem Platz
-  location_url: /unser-platz
-  dtstart: 2025-09-20 00:00:00
-  dtend: 2025-09-20 00:00:00
-  class: PUBLIC
-  full_day: true
-
-- title: Lockeres Treffen in einer Gaststätte (Vereinsintern)
-  human_readable_date: 24. Oktober 2025 - 18:00
-  location: Wird noch bekannt gegeben
-  location_url: ""
-  dtstart: 2025-10-24 18:00:00
-  dtend: 2025-10-24 22:00:00
+- title: Mitgliederversammlung
+  human_readable_date: 18. Februar 2026 - 18:00
+  location: Casa Toro Negro Nauen
+  location_url: https://www.casa-toro-negro.de/
+  dtstart: 2026-02-18 18:00:00
+  dtend: 2026-02-18 22:00:00
   class: PRIVATE
   full_day: false
 
-- title: Weihnachtsfeier (Vereinsintern)
-  human_readable_date: 22. November 2025 - 18:00
-  location: Wird noch bekannt gegeben
-  location_url: ""
-  dtstart: 2025-11-22 18:00:00
-  dtend: 2025-11-22 22:00:00
+- title: Arbeitseinsatz
+  human_readable_date: 28. März 2026
+  location: Auf unserem Platz
+  location_url: /unser-platz
+  dtstart: 2026-03-28 00:00:00
+  dtend: 2026-03-29 00:00:00
+  class: PRIVATE
+  full_day: true
+
+- title: Anfliegen
+  human_readable_date: 25. April 2026
+  location: Auf unserem Platz
+  location_url: /unser-platz
+  dtstart: 2026-04-25 00:00:00
+  dtend: 2026-04-26 00:00:00
+  class: PRIVATE
+  full_day: true
+
+- title: Sommerfest
+  human_readable_date: 25. Juli 2026
+  location: Auf unserem Platz
+  location_url: /unser-platz
+  dtstart: 2026-07-25 00:00:00
+  dtend: 2026-07-26 00:00:00
+  class: PRIVATE
+  full_day: true
+
+- title: Abfliegen
+  human_readable_date: 3. Oktober 2026
+  location: Auf unserem Platz
+  location_url: /unser-platz
+  dtstart: 2026-10-03 00:00:00
+  dtend: 2026-10-04 00:00:00
+  class: PRIVATE
+  full_day: true
+
+- title: Weihnachtsessen
+  human_readable_date: 5. Dezember 2026 - 18:00
+  location: Casa Toro Negro Nauen
+  location_url: https://www.casa-toro-negro.de/
+  dtstart: 2026-12-05 18:00:00
+  dtend: 2026-12-05 22:00:00
   class: PRIVATE
   full_day: false
