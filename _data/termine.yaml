@@ -25,12 +25,12 @@
   class: PRIVATE
   full_day: true
 
-- title: Anfliegen
-  human_readable_date: 25. April 2026
+- title: Anfliegen - verschoben!
+  human_readable_date: 02. Mai 2026
   location: Auf unserem Platz
   location_url: /unser-platz
-  dtstart: 2026-04-25 00:00:00
-  dtend: 2026-04-26 00:00:00
+  dtstart: 2026-05-02 00:00:00
+  dtend: 2026-05-03 00:00:00
   class: PRIVATE
   full_day: true
 
