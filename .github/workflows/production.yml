@@ -21,6 +21,7 @@ jobs:
       - name: 🌱 Setup Ruby
         uses: ruby/setup-ruby@v1.336.0
         with:
+          ruby-version: '3.4' # newer runner images only ship the latest 3.4.x patch release
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: 🏗️ Build with Jekyll
